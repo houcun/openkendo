@@ -2,4 +2,4 @@ openkendo
 =========
 
 openkendo
-copyright
+copyright knowboss
