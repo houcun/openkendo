@@ -2,3 +2,4 @@ openkendo
 =========
 
 openkendo
+copyright
